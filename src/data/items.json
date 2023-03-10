@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Cthulhu",
+      "price": 10.99,
+      "imgUrl": "/images/Cthulhu.png"
+    },
+    {
+      "id": 2,
+      "name": "Buddha",
+      "price": 1199,
+      "imgUrl": "/images/Buddha.png"
+    },
+    {
+      "id": 3,
+      "name": "Jesus",
+      "price": 1.05,
+      "imgUrl": "/images/Jesus.png"
+    },
+    {
+      "id": 4,
+      "name": "Zeus",
+      "price": 14000,
+      "imgUrl": "/images/Zeus.png"
+    }
+  ]
